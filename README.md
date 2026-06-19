@@ -6,8 +6,6 @@ under CC BY 4.0.
 
 **→ [Download the latest release](../../releases/latest)**
 
-Or from the project homepage: **https://hanamivgc.com**
-
 ## What's in the bundle
 
 | Table | Description |
