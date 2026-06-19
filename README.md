@@ -30,4 +30,3 @@ CC BY 4.0 — use it for anything, credit me.
 
 Built by one person across April–June 2026 because the format was
 interesting and the data didn't exist anywhere else.
-**https://hanamivgc.com** • 🌸
